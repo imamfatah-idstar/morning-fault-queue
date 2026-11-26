@@ -1,6 +1,6 @@
 # Morning Fault Queue (`Open-Router-Tesla`)
 
-Tone-blind overnight Tesla vehicle fault triage reader powered by **OpenRouter** (`anthropic/claude-sonnet-4.5`) and **Pydantic v2** deterministic safety overrides.
+Tone-blind overnight Tesla vehicle fault triage reader powered by **OpenRouter** (defaulting to the free `openrouter/free` router, or `anthropic/claude-sonnet-4.5` when configured) and **Pydantic v2** deterministic safety overrides.
 
 ## Overview
 
@@ -16,6 +16,8 @@ Customer fault reports often mask critical safety issues behind calm phrasing (e
 
 - `triage_reader.py` — OpenRouter client (`get_openrouter_client`) and structured triage classifier (`classify_fault_report`).
 - `schemas.py` — `FaultTriageResult` Pydantic model and `enforce_safety_overrides` validator.
+- `run_batch.py` — Batch runner that classifies all 300 messages in `overnight_messages.json`, writes `triage_results.csv` (`id`, `urgency`, `fix_path`), and verifies row count and non-blank fields.
+- `overnight_messages.json` — 300 overnight vehicle fault reports for batch triage.
 - `smoke_test.py` — Offline Pydantic validator checks and live adversarial smoke tests (`MSG-10002`, `MSG-10048`, `MSG-10068`, `MSG-10297`, `MSG-10021`).
 - `requirements.txt` — Python dependencies (`openai>=1.55.0`, `pydantic>=2.9.0`, `python-dotenv>=1.0.1`).
 - `.env.example` — Environment variable template (`OPENROUTER_API_KEY`, `OPENROUTER_MODEL`).
@@ -45,10 +47,25 @@ Copy `.env.example` to `.env` and add your OpenRouter API key:
 
 ```env
 OPENROUTER_API_KEY=sk-or-v1-your-key-here
-OPENROUTER_MODEL=anthropic/claude-sonnet-4.5
+# Free OpenRouter router (no credits required); override with e.g. anthropic/claude-sonnet-4.5 if funded
+OPENROUTER_MODEL=openrouter/free
 ```
 
 > Never commit `.env` to Git. It is already listed in `.gitignore`.
+
+## Batch Queue Run (300 Messages)
+
+Run `run_batch.py` to classify all 300 messages in `overnight_messages.json` and output `triage_results.csv` (`id`, `urgency`, `fix_path`):
+
+```powershell
+# Live OpenRouter run (uses OPENROUTER_MODEL from .env, defaulting to openrouter/free)
+.\.venv\Scripts\python.exe run_batch.py
+
+# Offline deterministic test run (no API key required)
+.\.venv\Scripts\python.exe run_batch.py --offline
+```
+
+`run_batch.py` automatically verifies that `triage_results.csv` contains 300 rows and no blank `id`, `urgency`, or `fix_path` values.
 
 ## Verification & Smoke Tests
 

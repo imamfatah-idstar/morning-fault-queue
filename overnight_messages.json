@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "MSG-10002",
+    "vehicle_alert_code": "NONE",
+    "message": "No rush at all, probably nothing, but the brake pedal feels a bit soft and spongy when stopping."
+  },
+  {
+    "id": "MSG-10048",
+    "vehicle_alert_code": "ABS_w002",
+    "message": "Happy to wait until next month, just saw ABS_w002 pop up briefly."
+  },
+  {
+    "id": "MSG-10068",
+    "vehicle_alert_code": "NONE",
+    "message": "Not dramatic, just annoying: driver wiper stalls mid-sweep in the rain."
+  },
+  {
+    "id": "MSG-10297",
+    "vehicle_alert_code": "ABS_w002",
+    "message": "Customer reports ABS_w002 appeared on highway and brake feel started to..."
+  },
+  {
+    "id": "MSG-10021",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port latch is acting up and won't always click shut on first..."
+  },
+  {
+    "id": "MSG-10300",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10301",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10302",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10303",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10304",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10305",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10306",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10307",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10308",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10309",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10310",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10311",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10312",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10313",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10314",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10315",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10316",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10317",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10318",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10319",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10320",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10321",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10322",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10323",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10324",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10325",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10326",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10327",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10328",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10329",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10330",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10331",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10332",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10333",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10334",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10335",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10336",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10337",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10338",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10339",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10340",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10341",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10342",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10343",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10344",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10345",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10346",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10347",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10348",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10349",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10350",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10351",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10352",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10353",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10354",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10355",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10356",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10357",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10358",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10359",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10360",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10361",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10362",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10363",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10364",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10365",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10366",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10367",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10368",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10369",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10370",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10371",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10372",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10373",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10374",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10375",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10376",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10377",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10378",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10379",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10380",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10381",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10382",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10383",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10384",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10385",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10386",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10387",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10388",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10389",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10390",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10391",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10392",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10393",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10394",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10395",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10396",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10397",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10398",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10399",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10400",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10401",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10402",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10403",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10404",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10405",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10406",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10407",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10408",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10409",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10410",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10411",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10412",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10413",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10414",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10415",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10416",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10417",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10418",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10419",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10420",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10421",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10422",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10423",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10424",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10425",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10426",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10427",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10428",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10429",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10430",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10431",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10432",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10433",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10434",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10435",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10436",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10437",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10438",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10439",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10440",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10441",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10442",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10443",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10444",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10445",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10446",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10447",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10448",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10449",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10450",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10451",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10452",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10453",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10454",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10455",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10456",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10457",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10458",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10459",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10460",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10461",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10462",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10463",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10464",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10465",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10466",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10467",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10468",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10469",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10470",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10471",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10472",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10473",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10474",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10475",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10476",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10477",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10478",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10479",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10480",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10481",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10482",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10483",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10484",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10485",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10486",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10487",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10488",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10489",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10490",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10491",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10492",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10493",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10494",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10495",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10496",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10497",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10498",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10499",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10500",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10501",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10502",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10503",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10504",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10505",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10506",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10507",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10508",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10509",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10510",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10511",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10512",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10513",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10514",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10515",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10516",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10517",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10518",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10519",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10520",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10521",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10522",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10523",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10524",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10525",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10526",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10527",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10528",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10529",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10530",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10531",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10532",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10533",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10534",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10535",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10536",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10537",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10538",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10539",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10540",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10541",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10542",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10543",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10544",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10545",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10546",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10547",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10548",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10549",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10550",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10551",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10552",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10553",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10554",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10555",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10556",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10557",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10558",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10559",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10560",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10561",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10562",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10563",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10564",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10565",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10566",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10567",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10568",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10569",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10570",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10571",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10572",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10573",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10574",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10575",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10576",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10577",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10578",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10579",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  },
+  {
+    "id": "MSG-10580",
+    "vehicle_alert_code": "NONE",
+    "message": "Charge port door squeaks when opening."
+  },
+  {
+    "id": "MSG-10581",
+    "vehicle_alert_code": "NONE",
+    "message": "Mobile app takes a few tries to wake the car."
+  },
+  {
+    "id": "MSG-10582",
+    "vehicle_alert_code": "NONE",
+    "message": "Rear window rattle over speed bumps."
+  },
+  {
+    "id": "MSG-10583",
+    "vehicle_alert_code": "NONE",
+    "message": "Side mirror folding motor sounds slightly loud."
+  },
+  {
+    "id": "MSG-10584",
+    "vehicle_alert_code": "NONE",
+    "message": "USB-C port in center console stopped charging phone."
+  },
+  {
+    "id": "MSG-10585",
+    "vehicle_alert_code": "BRK_a001",
+    "message": "Brake booster warning appeared, stopping distance feels normal so far, no rush."
+  },
+  {
+    "id": "MSG-10586",
+    "vehicle_alert_code": "BRK_w003",
+    "message": "Saw BRK_w003 on dash this morning, happy to wait until Friday."
+  },
+  {
+    "id": "MSG-10587",
+    "vehicle_alert_code": "ESP_w003",
+    "message": "ESP_w003 flashed on wet road, probably nothing."
+  },
+  {
+    "id": "MSG-10588",
+    "vehicle_alert_code": "EPAS_a191",
+    "message": "EPAS_a191 alert came on, steering felt heavy in parking lot."
+  },
+  {
+    "id": "MSG-10589",
+    "vehicle_alert_code": "EPAS_w202",
+    "message": "EPAS_w202 warning briefly showed up, steering wheel pulling slightly left."
+  },
+  {
+    "id": "MSG-10590",
+    "vehicle_alert_code": "NONE",
+    "message": "Sinking brake pedal at red lights, not dramatic, just wanted to mention it."
+  },
+  {
+    "id": "MSG-10591",
+    "vehicle_alert_code": "NONE",
+    "message": "Grinding when braking at low speeds, no rush at all."
+  },
+  {
+    "id": "MSG-10592",
+    "vehicle_alert_code": "NONE",
+    "message": "Driver wiper fails to park and stays in forward line of sight."
+  },
+  {
+    "id": "MSG-10593",
+    "vehicle_alert_code": "NONE",
+    "message": "Cabin heater takes an extra minute to warm up, super annoying!"
+  },
+  {
+    "id": "MSG-10594",
+    "vehicle_alert_code": "NONE",
+    "message": "Center screen froze once after software update, rebooted fine."
+  }
+]

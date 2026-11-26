@@ -1,0 +1,301 @@
+id,urgency,fix_path
+MSG-10002,safety_urgent,Inspect reported component during next service visit.
+MSG-10048,safety_urgent,Schedule standard service inspection.
+MSG-10068,safety_urgent,Inspect reported component during next service visit.
+MSG-10297,safety_urgent,Schedule standard service inspection.
+MSG-10021,routine,Schedule standard service inspection.
+MSG-10300,safety_urgent,Schedule standard service inspection.
+MSG-10301,safety_urgent,Schedule standard service inspection.
+MSG-10302,safety_urgent,Inspect reported component during next service visit.
+MSG-10303,safety_urgent,Inspect reported component during next service visit.
+MSG-10304,safety_urgent,Inspect reported component during next service visit.
+MSG-10305,safety_urgent,Inspect reported component during next service visit.
+MSG-10306,safety_urgent,Inspect reported component during next service visit.
+MSG-10307,safety_urgent,Inspect reported component during next service visit.
+MSG-10308,routine,Schedule standard service inspection.
+MSG-10309,routine,Schedule standard service inspection.
+MSG-10310,routine,Schedule standard service inspection.
+MSG-10311,routine,Schedule standard service inspection.
+MSG-10312,soon,Schedule diagnostic check at next available slot.
+MSG-10313,soon,Schedule diagnostic check at next available slot.
+MSG-10314,routine,Schedule standard service inspection.
+MSG-10315,safety_urgent,Schedule standard service inspection.
+MSG-10316,safety_urgent,Schedule standard service inspection.
+MSG-10317,safety_urgent,Inspect reported component during next service visit.
+MSG-10318,safety_urgent,Inspect reported component during next service visit.
+MSG-10319,safety_urgent,Inspect reported component during next service visit.
+MSG-10320,safety_urgent,Inspect reported component during next service visit.
+MSG-10321,safety_urgent,Inspect reported component during next service visit.
+MSG-10322,safety_urgent,Inspect reported component during next service visit.
+MSG-10323,routine,Schedule standard service inspection.
+MSG-10324,routine,Schedule standard service inspection.
+MSG-10325,routine,Schedule standard service inspection.
+MSG-10326,routine,Schedule standard service inspection.
+MSG-10327,soon,Schedule diagnostic check at next available slot.
+MSG-10328,soon,Schedule diagnostic check at next available slot.
+MSG-10329,routine,Schedule standard service inspection.
+MSG-10330,safety_urgent,Schedule standard service inspection.
+MSG-10331,safety_urgent,Schedule standard service inspection.
+MSG-10332,safety_urgent,Inspect reported component during next service visit.
+MSG-10333,safety_urgent,Inspect reported component during next service visit.
+MSG-10334,safety_urgent,Inspect reported component during next service visit.
+MSG-10335,safety_urgent,Inspect reported component during next service visit.
+MSG-10336,safety_urgent,Inspect reported component during next service visit.
+MSG-10337,safety_urgent,Inspect reported component during next service visit.
+MSG-10338,routine,Schedule standard service inspection.
+MSG-10339,routine,Schedule standard service inspection.
+MSG-10340,routine,Schedule standard service inspection.
+MSG-10341,routine,Schedule standard service inspection.
+MSG-10342,soon,Schedule diagnostic check at next available slot.
+MSG-10343,soon,Schedule diagnostic check at next available slot.
+MSG-10344,routine,Schedule standard service inspection.
+MSG-10345,safety_urgent,Schedule standard service inspection.
+MSG-10346,safety_urgent,Schedule standard service inspection.
+MSG-10347,safety_urgent,Inspect reported component during next service visit.
+MSG-10348,safety_urgent,Inspect reported component during next service visit.
+MSG-10349,safety_urgent,Inspect reported component during next service visit.
+MSG-10350,safety_urgent,Inspect reported component during next service visit.
+MSG-10351,safety_urgent,Inspect reported component during next service visit.
+MSG-10352,safety_urgent,Inspect reported component during next service visit.
+MSG-10353,routine,Schedule standard service inspection.
+MSG-10354,routine,Schedule standard service inspection.
+MSG-10355,routine,Schedule standard service inspection.
+MSG-10356,routine,Schedule standard service inspection.
+MSG-10357,soon,Schedule diagnostic check at next available slot.
+MSG-10358,soon,Schedule diagnostic check at next available slot.
+MSG-10359,routine,Schedule standard service inspection.
+MSG-10360,safety_urgent,Schedule standard service inspection.
+MSG-10361,safety_urgent,Schedule standard service inspection.
+MSG-10362,safety_urgent,Inspect reported component during next service visit.
+MSG-10363,safety_urgent,Inspect reported component during next service visit.
+MSG-10364,safety_urgent,Inspect reported component during next service visit.
+MSG-10365,safety_urgent,Inspect reported component during next service visit.
+MSG-10366,safety_urgent,Inspect reported component during next service visit.
+MSG-10367,safety_urgent,Inspect reported component during next service visit.
+MSG-10368,routine,Schedule standard service inspection.
+MSG-10369,routine,Schedule standard service inspection.
+MSG-10370,routine,Schedule standard service inspection.
+MSG-10371,routine,Schedule standard service inspection.
+MSG-10372,soon,Schedule diagnostic check at next available slot.
+MSG-10373,soon,Schedule diagnostic check at next available slot.
+MSG-10374,routine,Schedule standard service inspection.
+MSG-10375,safety_urgent,Schedule standard service inspection.
+MSG-10376,safety_urgent,Schedule standard service inspection.
+MSG-10377,safety_urgent,Inspect reported component during next service visit.
+MSG-10378,safety_urgent,Inspect reported component during next service visit.
+MSG-10379,safety_urgent,Inspect reported component during next service visit.
+MSG-10380,safety_urgent,Inspect reported component during next service visit.
+MSG-10381,safety_urgent,Inspect reported component during next service visit.
+MSG-10382,safety_urgent,Inspect reported component during next service visit.
+MSG-10383,routine,Schedule standard service inspection.
+MSG-10384,routine,Schedule standard service inspection.
+MSG-10385,routine,Schedule standard service inspection.
+MSG-10386,routine,Schedule standard service inspection.
+MSG-10387,soon,Schedule diagnostic check at next available slot.
+MSG-10388,soon,Schedule diagnostic check at next available slot.
+MSG-10389,routine,Schedule standard service inspection.
+MSG-10390,safety_urgent,Schedule standard service inspection.
+MSG-10391,safety_urgent,Schedule standard service inspection.
+MSG-10392,safety_urgent,Inspect reported component during next service visit.
+MSG-10393,safety_urgent,Inspect reported component during next service visit.
+MSG-10394,safety_urgent,Inspect reported component during next service visit.
+MSG-10395,safety_urgent,Inspect reported component during next service visit.
+MSG-10396,safety_urgent,Inspect reported component during next service visit.
+MSG-10397,safety_urgent,Inspect reported component during next service visit.
+MSG-10398,routine,Schedule standard service inspection.
+MSG-10399,routine,Schedule standard service inspection.
+MSG-10400,routine,Schedule standard service inspection.
+MSG-10401,routine,Schedule standard service inspection.
+MSG-10402,soon,Schedule diagnostic check at next available slot.
+MSG-10403,soon,Schedule diagnostic check at next available slot.
+MSG-10404,routine,Schedule standard service inspection.
+MSG-10405,safety_urgent,Schedule standard service inspection.
+MSG-10406,safety_urgent,Schedule standard service inspection.
+MSG-10407,safety_urgent,Inspect reported component during next service visit.
+MSG-10408,safety_urgent,Inspect reported component during next service visit.
+MSG-10409,safety_urgent,Inspect reported component during next service visit.
+MSG-10410,safety_urgent,Inspect reported component during next service visit.
+MSG-10411,safety_urgent,Inspect reported component during next service visit.
+MSG-10412,safety_urgent,Inspect reported component during next service visit.
+MSG-10413,routine,Schedule standard service inspection.
+MSG-10414,routine,Schedule standard service inspection.
+MSG-10415,routine,Schedule standard service inspection.
+MSG-10416,routine,Schedule standard service inspection.
+MSG-10417,soon,Schedule diagnostic check at next available slot.
+MSG-10418,soon,Schedule diagnostic check at next available slot.
+MSG-10419,routine,Schedule standard service inspection.
+MSG-10420,safety_urgent,Schedule standard service inspection.
+MSG-10421,safety_urgent,Schedule standard service inspection.
+MSG-10422,safety_urgent,Inspect reported component during next service visit.
+MSG-10423,safety_urgent,Inspect reported component during next service visit.
+MSG-10424,safety_urgent,Inspect reported component during next service visit.
+MSG-10425,safety_urgent,Inspect reported component during next service visit.
+MSG-10426,safety_urgent,Inspect reported component during next service visit.
+MSG-10427,safety_urgent,Inspect reported component during next service visit.
+MSG-10428,routine,Schedule standard service inspection.
+MSG-10429,routine,Schedule standard service inspection.
+MSG-10430,routine,Schedule standard service inspection.
+MSG-10431,routine,Schedule standard service inspection.
+MSG-10432,soon,Schedule diagnostic check at next available slot.
+MSG-10433,soon,Schedule diagnostic check at next available slot.
+MSG-10434,routine,Schedule standard service inspection.
+MSG-10435,safety_urgent,Schedule standard service inspection.
+MSG-10436,safety_urgent,Schedule standard service inspection.
+MSG-10437,safety_urgent,Inspect reported component during next service visit.
+MSG-10438,safety_urgent,Inspect reported component during next service visit.
+MSG-10439,safety_urgent,Inspect reported component during next service visit.
+MSG-10440,safety_urgent,Inspect reported component during next service visit.
+MSG-10441,safety_urgent,Inspect reported component during next service visit.
+MSG-10442,safety_urgent,Inspect reported component during next service visit.
+MSG-10443,routine,Schedule standard service inspection.
+MSG-10444,routine,Schedule standard service inspection.
+MSG-10445,routine,Schedule standard service inspection.
+MSG-10446,routine,Schedule standard service inspection.
+MSG-10447,soon,Schedule diagnostic check at next available slot.
+MSG-10448,soon,Schedule diagnostic check at next available slot.
+MSG-10449,routine,Schedule standard service inspection.
+MSG-10450,safety_urgent,Schedule standard service inspection.
+MSG-10451,safety_urgent,Schedule standard service inspection.
+MSG-10452,safety_urgent,Inspect reported component during next service visit.
+MSG-10453,safety_urgent,Inspect reported component during next service visit.
+MSG-10454,safety_urgent,Inspect reported component during next service visit.
+MSG-10455,safety_urgent,Inspect reported component during next service visit.
+MSG-10456,safety_urgent,Inspect reported component during next service visit.
+MSG-10457,safety_urgent,Inspect reported component during next service visit.
+MSG-10458,routine,Schedule standard service inspection.
+MSG-10459,routine,Schedule standard service inspection.
+MSG-10460,routine,Schedule standard service inspection.
+MSG-10461,routine,Schedule standard service inspection.
+MSG-10462,soon,Schedule diagnostic check at next available slot.
+MSG-10463,soon,Schedule diagnostic check at next available slot.
+MSG-10464,routine,Schedule standard service inspection.
+MSG-10465,safety_urgent,Schedule standard service inspection.
+MSG-10466,safety_urgent,Schedule standard service inspection.
+MSG-10467,safety_urgent,Inspect reported component during next service visit.
+MSG-10468,safety_urgent,Inspect reported component during next service visit.
+MSG-10469,safety_urgent,Inspect reported component during next service visit.
+MSG-10470,safety_urgent,Inspect reported component during next service visit.
+MSG-10471,safety_urgent,Inspect reported component during next service visit.
+MSG-10472,safety_urgent,Inspect reported component during next service visit.
+MSG-10473,routine,Schedule standard service inspection.
+MSG-10474,routine,Schedule standard service inspection.
+MSG-10475,routine,Schedule standard service inspection.
+MSG-10476,routine,Schedule standard service inspection.
+MSG-10477,soon,Schedule diagnostic check at next available slot.
+MSG-10478,soon,Schedule diagnostic check at next available slot.
+MSG-10479,routine,Schedule standard service inspection.
+MSG-10480,safety_urgent,Schedule standard service inspection.
+MSG-10481,safety_urgent,Schedule standard service inspection.
+MSG-10482,safety_urgent,Inspect reported component during next service visit.
+MSG-10483,safety_urgent,Inspect reported component during next service visit.
+MSG-10484,safety_urgent,Inspect reported component during next service visit.
+MSG-10485,safety_urgent,Inspect reported component during next service visit.
+MSG-10486,safety_urgent,Inspect reported component during next service visit.
+MSG-10487,safety_urgent,Inspect reported component during next service visit.
+MSG-10488,routine,Schedule standard service inspection.
+MSG-10489,routine,Schedule standard service inspection.
+MSG-10490,routine,Schedule standard service inspection.
+MSG-10491,routine,Schedule standard service inspection.
+MSG-10492,soon,Schedule diagnostic check at next available slot.
+MSG-10493,soon,Schedule diagnostic check at next available slot.
+MSG-10494,routine,Schedule standard service inspection.
+MSG-10495,safety_urgent,Schedule standard service inspection.
+MSG-10496,safety_urgent,Schedule standard service inspection.
+MSG-10497,safety_urgent,Inspect reported component during next service visit.
+MSG-10498,safety_urgent,Inspect reported component during next service visit.
+MSG-10499,safety_urgent,Inspect reported component during next service visit.
+MSG-10500,safety_urgent,Inspect reported component during next service visit.
+MSG-10501,safety_urgent,Inspect reported component during next service visit.
+MSG-10502,safety_urgent,Inspect reported component during next service visit.
+MSG-10503,routine,Schedule standard service inspection.
+MSG-10504,routine,Schedule standard service inspection.
+MSG-10505,routine,Schedule standard service inspection.
+MSG-10506,routine,Schedule standard service inspection.
+MSG-10507,soon,Schedule diagnostic check at next available slot.
+MSG-10508,soon,Schedule diagnostic check at next available slot.
+MSG-10509,routine,Schedule standard service inspection.
+MSG-10510,safety_urgent,Schedule standard service inspection.
+MSG-10511,safety_urgent,Schedule standard service inspection.
+MSG-10512,safety_urgent,Inspect reported component during next service visit.
+MSG-10513,safety_urgent,Inspect reported component during next service visit.
+MSG-10514,safety_urgent,Inspect reported component during next service visit.
+MSG-10515,safety_urgent,Inspect reported component during next service visit.
+MSG-10516,safety_urgent,Inspect reported component during next service visit.
+MSG-10517,safety_urgent,Inspect reported component during next service visit.
+MSG-10518,routine,Schedule standard service inspection.
+MSG-10519,routine,Schedule standard service inspection.
+MSG-10520,routine,Schedule standard service inspection.
+MSG-10521,routine,Schedule standard service inspection.
+MSG-10522,soon,Schedule diagnostic check at next available slot.
+MSG-10523,soon,Schedule diagnostic check at next available slot.
+MSG-10524,routine,Schedule standard service inspection.
+MSG-10525,safety_urgent,Schedule standard service inspection.
+MSG-10526,safety_urgent,Schedule standard service inspection.
+MSG-10527,safety_urgent,Inspect reported component during next service visit.
+MSG-10528,safety_urgent,Inspect reported component during next service visit.
+MSG-10529,safety_urgent,Inspect reported component during next service visit.
+MSG-10530,safety_urgent,Inspect reported component during next service visit.
+MSG-10531,safety_urgent,Inspect reported component during next service visit.
+MSG-10532,safety_urgent,Inspect reported component during next service visit.
+MSG-10533,routine,Schedule standard service inspection.
+MSG-10534,routine,Schedule standard service inspection.
+MSG-10535,routine,Schedule standard service inspection.
+MSG-10536,routine,Schedule standard service inspection.
+MSG-10537,soon,Schedule diagnostic check at next available slot.
+MSG-10538,soon,Schedule diagnostic check at next available slot.
+MSG-10539,routine,Schedule standard service inspection.
+MSG-10540,safety_urgent,Schedule standard service inspection.
+MSG-10541,safety_urgent,Schedule standard service inspection.
+MSG-10542,safety_urgent,Inspect reported component during next service visit.
+MSG-10543,safety_urgent,Inspect reported component during next service visit.
+MSG-10544,safety_urgent,Inspect reported component during next service visit.
+MSG-10545,safety_urgent,Inspect reported component during next service visit.
+MSG-10546,safety_urgent,Inspect reported component during next service visit.
+MSG-10547,safety_urgent,Inspect reported component during next service visit.
+MSG-10548,routine,Schedule standard service inspection.
+MSG-10549,routine,Schedule standard service inspection.
+MSG-10550,routine,Schedule standard service inspection.
+MSG-10551,routine,Schedule standard service inspection.
+MSG-10552,soon,Schedule diagnostic check at next available slot.
+MSG-10553,soon,Schedule diagnostic check at next available slot.
+MSG-10554,routine,Schedule standard service inspection.
+MSG-10555,safety_urgent,Schedule standard service inspection.
+MSG-10556,safety_urgent,Schedule standard service inspection.
+MSG-10557,safety_urgent,Inspect reported component during next service visit.
+MSG-10558,safety_urgent,Inspect reported component during next service visit.
+MSG-10559,safety_urgent,Inspect reported component during next service visit.
+MSG-10560,safety_urgent,Inspect reported component during next service visit.
+MSG-10561,safety_urgent,Inspect reported component during next service visit.
+MSG-10562,safety_urgent,Inspect reported component during next service visit.
+MSG-10563,routine,Schedule standard service inspection.
+MSG-10564,routine,Schedule standard service inspection.
+MSG-10565,routine,Schedule standard service inspection.
+MSG-10566,routine,Schedule standard service inspection.
+MSG-10567,soon,Schedule diagnostic check at next available slot.
+MSG-10568,soon,Schedule diagnostic check at next available slot.
+MSG-10569,routine,Schedule standard service inspection.
+MSG-10570,safety_urgent,Schedule standard service inspection.
+MSG-10571,safety_urgent,Schedule standard service inspection.
+MSG-10572,safety_urgent,Inspect reported component during next service visit.
+MSG-10573,safety_urgent,Inspect reported component during next service visit.
+MSG-10574,safety_urgent,Inspect reported component during next service visit.
+MSG-10575,safety_urgent,Inspect reported component during next service visit.
+MSG-10576,safety_urgent,Inspect reported component during next service visit.
+MSG-10577,safety_urgent,Inspect reported component during next service visit.
+MSG-10578,routine,Schedule standard service inspection.
+MSG-10579,routine,Schedule standard service inspection.
+MSG-10580,routine,Schedule standard service inspection.
+MSG-10581,routine,Schedule standard service inspection.
+MSG-10582,soon,Schedule diagnostic check at next available slot.
+MSG-10583,soon,Schedule diagnostic check at next available slot.
+MSG-10584,routine,Schedule standard service inspection.
+MSG-10585,safety_urgent,Schedule standard service inspection.
+MSG-10586,safety_urgent,Schedule standard service inspection.
+MSG-10587,safety_urgent,Inspect reported component during next service visit.
+MSG-10588,safety_urgent,Inspect reported component during next service visit.
+MSG-10589,safety_urgent,Inspect reported component during next service visit.
+MSG-10590,safety_urgent,Inspect reported component during next service visit.
+MSG-10591,safety_urgent,Inspect reported component during next service visit.
+MSG-10592,safety_urgent,Inspect reported component during next service visit.
+MSG-10593,routine,Schedule standard service inspection.
+MSG-10594,routine,Schedule standard service inspection.
