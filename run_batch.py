@@ -65,6 +65,12 @@ def verify_csv(output_path: Path, expected_rows: int) -> None:
                 raise AssertionError(f"Row {idx} has blank '{col}' in {output_path}")
         if row["urgency"] not in {"safety_urgent", "soon", "routine"}:
             raise AssertionError(f"Row {idx} has invalid urgency: {row['urgency']}")
+        if row["urgency"] == "safety_urgent":
+            fix_lower = row["fix_path"].lower()
+            if any(p in fix_lower for p in ("next service", "standard service", "next available")):
+                raise AssertionError(
+                    f"Row {idx} ({row['id']}) is safety_urgent but has deferred fix_path: {row['fix_path']}"
+                )
 
     print(f"CSV verification PASSED: {len(rows)} rows, 0 blank fields in {output_path}")
 
